@@ -1,8 +1,9 @@
 ### ✨ Welcome to YunJung's Github 👋 
+<!--
 [![Gmail Badge](https://img.shields.io/badge/syj91105@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:syj91105@gmail.com)](mailto:syj91105@gmail.com)
 [![Velog Badge](http://img.shields.io/badge/ynzung's&nbsp;Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@ynzung/posts)](https://velog.io/@ynzung/posts)
 [![Instagram Badge](https://img.shields.io/badge/ynzung-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ynzung)
-
+-->
 
 ### 📚 I'm studying...
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">&nbsp;
