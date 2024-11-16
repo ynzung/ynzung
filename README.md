@@ -16,8 +16,9 @@
 ### 💻 Projects
 | Duration | Title | Stack | Repo |
 | ----- | ------ | ----- | ----- |
-| 2024.07 <br/>- 2024.08 | 중장년층과 청년의 세대통합 멘토링 서비스, **VOYAGE** | React | [VOYAGE](https://github.com/ynzung/Voyage-Client.git) |
-| 2024.07 | 디지털 롤링페이퍼 모바일 웹 서비스, **글림(Gleam)** | Html | [Gleam](https://github.com/ynzung/Gleam.git) |
+| 2024.11 | 함께 떠날 여행 메이트를 모아주는 여행 동행 플랫폼, **모아(MOA)** | React, js | [MOA](https://github.com/ynzung/MOA_FE.git) |
+| 2024.07 <br/>- 2024.08 | 중장년층과 청년의 세대통합 멘토링 서비스, **VOYAGE** | React, js | [VOYAGE](https://github.com/ynzung/Voyage-Client.git) |
+| 2024.07 | 디지털 롤링페이퍼 모바일 웹 서비스, **글림(Gleam)** | Html, js | [Gleam](https://github.com/ynzung/Gleam.git) |
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ynzung)
