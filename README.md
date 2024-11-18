@@ -2,8 +2,6 @@
 > 🏫 Sookmyung Women's University IT engineering<br/> ✨ FE Developer
 
 
-<br>
-
 ### 📚 I'm studying...
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;
@@ -11,7 +9,6 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;
 
-<br>
 
 ### 💻 Projects
 | Duration | Title | Stack | Repo |
