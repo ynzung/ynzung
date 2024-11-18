@@ -1,4 +1,4 @@
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome+to+ynzung's+github!&fontSize=60&color=0:8ec6fa,100:d4e8fa&stroke=bad9f5)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome+to+ynzung's+github!&fontSize=60&color=0:8ec6fa,100:dfecf5&stroke=bad9f5)
 
 ## ❄️ Seong YunJung
 > 🏫 Sookmyung Women's University IT engineering<br/> ✨ FE Developer
