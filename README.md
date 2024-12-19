@@ -20,7 +20,6 @@
 | 2024.11 | 함께 떠날 여행 메이트를 모아주는 여행 동행 플랫폼, **모아(MOA)** | React, js | [MOA](https://github.com/ynzung/MOA_FE.git) |
 | 2024.07 <br/>- 2024.08 | 중장년층과 청년의 세대통합 멘토링 서비스, **VOYAGE** | React, js | [VOYAGE](https://github.com/ynzung/Voyage-Client.git) |
 | 2024.07 | 디지털 롤링페이퍼 모바일 웹 서비스, **글림(Gleam)** | Html, js | [Gleam](https://github.com/ynzung/Gleam.git) |
-| 2024.01 <br/>- 2024.02 | 2024 숙명여자대학교 중앙동아리 솔룩스(SOLUX) 웹 개편 | Html, js | [SOLUX-web](https://github.com/ynzung/2024-SMWU-SOLUX-web-reorganization.git) |
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ynzung)
