@@ -24,7 +24,7 @@
 | 2024.07 | 디지털 롤링페이퍼 모바일 웹 서비스, **글림(Gleam)** | Html, js | [Gleam](https://github.com/ynzung/Gleam.git) |
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ynzung)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ynzung&show_icons=true&bg_color=00000000)
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ynzung&utm_content=farm">
 <img
