@@ -2,7 +2,7 @@
 > 🏫 Sookmyung Women's University IT engineering <br/> 
 > ✨ FE Developer
 
-### 🛠️ Tech Stack
+### Tech Stack
 <div>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flatr&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flatr&logo=typescript&logoColor=white"/>
