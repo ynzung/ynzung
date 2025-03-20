@@ -18,7 +18,7 @@
 | 2024.11 | 이타적 자서전을 통해 세대를 연결하는 사회적 가치 창출 공공 웹서비스, **당신의 이야기** | React, JS | [Repo](https://github.com/ynzung/yourstory-FE.git) |
 | 2024.11 | 함께 떠날 여행 메이트를 모아주는 여행 동행 플랫폼, **모아(MOA)** | React, JS, TS | [Repo](https://github.com/ynzung/MOA_FE.git) |
 | 2024.07 <br/>- 2024.08 | 중장년층과 청년의 세대통합 멘토링 서비스, **VOYAGE** | React, JS | [Repo](https://github.com/ynzung/Voyage-Client.git) |
-| 2024.07 | 디지털 롤링페이퍼 모바일 웹 서비스, **글림(Gleam)** | Html, TS | [Repo](https://github.com/ynzung/Gleam.git) |
+| 2024.07 | 디지털 롤링페이퍼 모바일 웹 서비스, **글림(Gleam)** | Html, JS | [Repo](https://github.com/ynzung/Gleam.git) |
 
 ### Activities
 | Period | Activity |
