@@ -23,8 +23,8 @@
 ### Activities
 | Period | Activity |
 | ----- | ------ |
-| 2025.01 - 현재| [멋쟁이사자처럼 숙명여대 13기](https://github.com/Likelion-at-SMWU-13th) 대표 |
-| 2024.03 - 2024.12 | [멋쟁이사자처럼 숙명여대 12기](https://github.com/Likelion-at-SMWU-12th) FE 아기사자 |
+| 2025.01 - 현재| [멋쟁이사자처럼 대학 숙명여대 13기](https://github.com/Likelion-at-SMWU-13th) 대표 |
+| 2024.03 - 2024.12 | [멋쟁이사자처럼 대학 숙명여대 12기](https://github.com/Likelion-at-SMWU-12th) FE 아기사자 |
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ynzung&show_icons=true&bg_color=00000000)
