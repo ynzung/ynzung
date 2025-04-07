@@ -25,6 +25,7 @@
 | ----- | ------ |
 | 2025.01 - 현재| [숙명여대 멋쟁이사자처럼 13기](https://github.com/Likelion-at-SMWU-13th) 대표 |
 | 2024.03 - 2024.12 | [숙명여대 멋쟁이사자처럼 12기](https://github.com/Likelion-at-SMWU-12th) FE 아기사자 |
+| 2024.01 - 2024.02 | [숙명여대 프로그래밍 중앙동아리 솔룩스](https://sm-solux.dev) 웹개편팀 |
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ynzung&show_icons=true&bg_color=00000000)
