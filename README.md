@@ -14,7 +14,7 @@
 | Period | Title | Stack | Link |
 | ----- | ------ | ----- | ----- |
 | 2025.04 <br/>- 2025.05 | 당신의 산행을 위한 올인원 등산 플랫폼 서비스, **하이커스(hikers)**  | React, TS | [Web](https://hikers.kro.kr), [Repo](https://github.com/ynzung/hikers-FE)|
-| 2024.12 <br/>- 2025.03 | 대학 새내기를 위한 캠퍼스 라이프 필수템, **MOIM** | Next.js, TS | [Web](https://moim.team/), [Intro](https://moimmoim.imweb.me/19)|
+| 2024.12 <br/>- 2025.03 | 대학 새내기를 위한 캠퍼스 라이프 필수템, **MOIM** | Next.js, TS | [Web](https://moim.team/), [Repo](https://github.com/GCU-LINKVERSE/Client)|
 | 2024.11 <br/>- 2024.12 | 뇌파 감지를 통한 학습 환경 졸음 진동 경고 서비스, **WakeupBuddy** | React, JS | [web](https://wakeupbuddy-fe.vercel.app/), [Repo](https://github.com/ynzung/wakeupbuddy-FE.git) |
 | 2024.11 | 이타적 자서전을 통해 세대를 연결하는 사회적 가치 창출 공공 웹서비스, **당신의 이야기** | React, JS | [web](https://yourstory-fe.vercel.app/), [Repo](https://github.com/ynzung/yourstory-FE.git) |
 | 2024.11 | 함께 떠날 여행 메이트를 모아주는 여행 동행 플랫폼, **모아(MOA)** | React, JS, TS | [Repo](https://github.com/ynzung/MOA_FE.git) |
