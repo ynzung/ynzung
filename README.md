@@ -29,4 +29,3 @@
 | 2024.01 - 2024.02 | [숙명여대 프로그래밍 중앙동아리 솔룩스](https://github.com/ynzung/2024-SMWU-SOLUX-web-reorganization) 웹개편팀 |
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ynzung&show_icons=true&bg_color=00000000)
