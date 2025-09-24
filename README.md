@@ -20,7 +20,7 @@
 | 2024.11 <br/>- 2024.12 | 뇌파 감지를 통한 학습 환경 졸음 진동 경고 서비스, **WakeupBuddy** | React, JS | [Repo](https://github.com/ynzung/wakeupbuddy-FE) |, [web](https://wakeupbuddy-fe.vercel.app/)
 | 2024.11 | 이타적 자서전을 통해 세대를 연결하는 사회적 가치 창출 공공 웹서비스, **당신의 이야기** | React, JS | [Repo](https://github.com/ynzung/yourstory-FE), [web](https://yourstory-fe.vercel.app/) |
 | 2024.11 | 함께 떠날 여행 메이트를 모아주는 여행 동행 플랫폼, **모아(MOA)** | React, JS, TS | [Repo](https://github.com/ynzung/MOA_FE) |
-| 2024.07 <br/>- 2024.08 | 중장년층과 청년의 세대통합 멘토링 서비스, **VOYAGE** | React, JS | [Repo](https://github.com/ynzung/Voyage-Client), [web](https://voyage-seven-nu.vercel.app/) |
+| 2024.07 <br/>- 2024.08 | 중장년층과 청년의 세대통합 멘토링 서비스, **VOYAGE** | React, JS | [Repo](https://github.com/ynzung/Voyage-Client)|
 
 ### Activities
 | Period | Activity |
