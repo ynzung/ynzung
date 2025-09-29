@@ -8,25 +8,25 @@
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flatr&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flatr&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flatr&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flatr&logo=python&logoColor=white"/>
+    <br/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flatr&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-663399?style=flatr&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=flatr&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flatr&logo=tailwind-css&logoColor=white"/>
+    <br/>
+  <img src="https://img.shields.io/badge/zustand-blue?style=flatr&logo=zustand&logoColor=white" />
 </div>
 
-### Projects
-| Duration | Project | Stack | Link |
-| ----- | ------ | ----- | ----- |
-| 2025.06 <br/>- 진행 중 | AI 기반 실시간 상담 지원 플랫폼, **Talktitude(고객용)** | Next.js, TS | [Repo](https://github.com/ynzung/talktitude-client-FE), [web](https://talktitude-client-fe.vercel.app/)
-| 2025.06 <br/>- 진행 중 | AI 기반 실시간 상담 지원 플랫폼, **Talktitude(상담원용)** | Next.js, TS | [Repo](https://github.com/ynzung/talktitude-agent-FE), [web](https://talktitude-agent-fe.vercel.app/)
-| 2025.04 <br/>- 2025.05 | 당신의 산행을 위한 올인원 등산 플랫폼 서비스, **하이커스(hikers)**  | React, TS | [Repo](https://github.com/ynzung/hikers-FE)|
-| 2024.12 <br/>- 2025.02 | 대학 새내기를 위한 캠퍼스 라이프 필수템, **MOIM** | Next.js, TS | [Repo](https://github.com/ynzung/MOIM-Client)|, [Web](https://moim.team/)
-| 2024.11 <br/>- 2024.12 | 뇌파 감지를 통한 학습 환경 졸음 진동 경고 서비스, **WakeupBuddy** | React, JS | [Repo](https://github.com/ynzung/wakeupbuddy-FE) |, [web](https://wakeupbuddy-fe.vercel.app/)
-| 2024.11 | 이타적 자서전을 통해 세대를 연결하는 사회적 가치 창출 공공 웹서비스, **당신의 이야기** | React, JS | [Repo](https://github.com/ynzung/yourstory-FE), [web](https://yourstory-fe.vercel.app/) |
-| 2024.11 | 함께 떠날 여행 메이트를 모아주는 여행 동행 플랫폼, **모아(MOA)** | React, JS, TS | [Repo](https://github.com/ynzung/MOA_FE) |
-| 2024.07 <br/>- 2024.08 | 중장년층과 청년의 세대통합 멘토링 서비스, **VOYAGE** | React, JS | [Repo](https://github.com/ynzung/Voyage-Client)|
-
-### Activities
-| Period | Activity |
-| ----- | ------ |
-| 2025.01 - 현재| [숙명여대 멋쟁이사자처럼 13기](https://github.com/Likelion-at-SMWU-13th) 대표 |
-| 2024.03 - 2024.12 | [숙명여대 멋쟁이사자처럼 12기](https://github.com/Likelion-at-SMWU-12th) FE 아기사자 |
-| 2024.01 - 2024.02 | [숙명여대 프로그래밍 중앙동아리 솔룩스](https://github.com/ynzung/2024-SMWU-SOLUX-web-reorganization) 웹개편팀 |
-<br/>
-
+### Tools
+<div>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=flatr&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=flatr&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flatr&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=flatr&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flatr&logo=Jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flatr&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flatr&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flatr&logo=vercel&logoColor=white"/>
+  
+</div>
